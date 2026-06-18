@@ -40,7 +40,7 @@ const Education = () => {
           <p className='text-primary text-sm uppercase tracking-wident mb-2 font-semibold'>
             Learning Path
           </p>
-          <h2 className='text-4xl md:text 5xl font-extrabold text-white'>Education.</h2>
+          <h2 className='text-4xl md:text 5xl font-extrabold text-white'>Education</h2>
         </div>
         <div className='flex flex-col lg:flex-row items-center gap-16'>
           <div className='w-full lg:w-5/12 flex justify-center lg:justify-start' data-aos='fade-right'>

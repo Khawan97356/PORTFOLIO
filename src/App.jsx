@@ -4,6 +4,9 @@ import 'aos/dist/aos.css'
 import Header from './component/Header'
 import HeroSection from './component/HeroSection'
 import Education from './component/Education'
+import Certificates from './component/Certificates'
+import AboutSection from './component/AboutSection'
+import Experience from './component/Experience'
 
 const App = () => {
   useEffect(() => {
@@ -19,6 +22,9 @@ const App = () => {
       <Header />
       <HeroSection />
       <Education />
+      <Certificates />
+      <AboutSection />
+      <Experience />
     </div>
   )
 }
