@@ -7,6 +7,8 @@ import Education from './component/Education'
 import Certificates from './component/Certificates'
 import AboutSection from './component/AboutSection'
 import Experience from './component/Experience'
+import ContactSection from './component/ContactSection'
+import Footer from './component/Footer'
 
 const App = () => {
   useEffect(() => {
@@ -25,6 +27,8 @@ const App = () => {
       <Certificates />
       <AboutSection />
       <Experience />
+      <ContactSection />
+      <Footer />
     </div>
   )
 }
